@@ -1,0 +1,5 @@
+# Don't commit virtual environment files
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
